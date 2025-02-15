@@ -3,7 +3,7 @@
 3.Impuestos.
 4.Contador.
 5.Cuantos ingredientes habrá.
-6.Cuantos empelados se necesitaran.
+6.Cuantos empleados se necesitaran.
 7.Mobiliario necesario. 
 8.Cual será el tipo de entrega.
 9.Delibery.
