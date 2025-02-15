@@ -1,0 +1,10 @@
+1.En donde estará la primer sucursal.
+2.Diseño de la imagen de la marca.
+3.Impuestos.
+4.Contador.
+5.Cuantos ingredientes habrá.
+6.Cuantos empelados se necesitaran.
+7.Mobiliario necesario. 
+8.Cual será el tipo de entrega.
+9.Delibery.
+10.Autoservicio.
