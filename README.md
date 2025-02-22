@@ -1,4 +1,4 @@
-# PIZZAS FATIMONn
+# PIZZAS FATIMON
 
 en este proyecto crearemos un software para poder administrar mejor una pizzeria 
 
