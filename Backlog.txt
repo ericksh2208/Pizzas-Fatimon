@@ -1,8 +1,8 @@
-1.En donde estará la primer sucursal.
-2.Diseño de la imagen de la marca.
-3.Impuestos.
-4.Contador.
-5.Cuantos ingredientes habrá.
+1.En donde estará la primer sucursal.Votacion-7.8
+2.Diseño de la imagen de la marca.Votacion-22.5
+3.Impuestos.Votacion-8.3
+4.Contador.Votacion-6.3
+5.Cuantos ingredientes habrá.Votacion-9.3
 6.Cuantos empleados se necesitaran.
 7.Mobiliario necesario. 
 8.Cual será el tipo de entrega.
