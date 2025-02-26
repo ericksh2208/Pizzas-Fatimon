@@ -3,8 +3,8 @@
 3.Impuestos.Votacion-8.3
 4.Contador.Votacion-6.3
 5.Cuantos ingredientes habrá.Votacion-9.3
-6.Cuantos empleados se necesitaran.
-7.Mobiliario necesario. 
-8.Cual será el tipo de entrega.
-9.Delibery.
-10.Autoservicio.
+6.Cuantos empleados se necesitaran.Votacion-8.8
+7.Mobiliario necesario. Votacion-3.8
+8.Cual será el tipo de entrega.Votacion-5.8
+9.Delibery.Votacion-18.5
+10.Autoservicio. Votacion-8.3
