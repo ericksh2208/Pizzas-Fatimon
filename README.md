@@ -7,4 +7,4 @@ en este proyecto crearemos un software para poder administrar mejor una pizzeria
 - Abrahaham123
 - txnia-lz
 - ericksh2208
-- tocayo123
+- erickevsh
